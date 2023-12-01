@@ -1,8 +1,8 @@
-# Patient Registration System
+# Hospital Management System
 
 ## Project Description
 
-This repository houses a comprehensive Patient Registration System designed for efficient management of patient, doctor, and appointment information within a hospital setting.
+This repository houses a comprehensive Hospital Management System designed for efficient management of patient, doctor, and appointment information within a hospital setting.
 
 ### Key Features
 
